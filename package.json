@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/paris-school/webpack_bundle/issues"
   },
-  "homepage": "https://github.com/paris-school/webpack_bundle#readme",
+  "homepage": "https://DmitryHoncharenko.github.io/myAPI",
   "devDependencies": {
     "@babel/core": "^7.12.8",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
